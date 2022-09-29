@@ -24,7 +24,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevCavalcantee}/count.svg" /></p> 
 <br></div>
   
 
